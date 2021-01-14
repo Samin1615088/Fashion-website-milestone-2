@@ -7,18 +7,24 @@ body {
   font-family: "Bebas Neue", sans-serif;
 }
 
-.color-orange {
+.color-bg-orange {
   background-color: #fd7e14;
 }
 .color-navi-blue {
   color: #2a1e59;
 }
+
+.gray-bg {
+  background-color: #f1f1f1;
+}
+
+.color-orange{
+  color: #fd7e14;
+}
+
+
 .brand-logo {
   height: 3rem;
-}
-.product-img{
-  height: 200px;
-  width: 200px;
 }
 
 .top-imagesize {
@@ -28,3 +34,4 @@ body {
 .my-btn-style {
   border: 0px;
 }
+
