@@ -1,0 +1,29 @@
+body {
+  font-family: "Roboto", sans-serif;
+  margin: 1%;
+}
+
+.font-bebas-neues {
+  font-family: "Bebas Neue", sans-serif;
+}
+
+.color-orange {
+  background-color: #fd7e14;
+}
+.color-navi-blue {
+  color: #2a1e59;
+}
+.brand-logo {
+  height: 3rem;
+}
+.product-img{
+  width: 100%;
+}
+
+.top-imagesize {
+  width: 90%;
+}
+
+.my-btn-style {
+  border: 0px;
+}
